@@ -1,0 +1,14 @@
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\obj\Debug\net8.0\Result_first_term.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\obj\Debug\net8.0\Result_first_term.AssemblyInfoInputs.cache
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\obj\Debug\net8.0\Result_first_term.AssemblyInfo.cs
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\obj\Debug\net8.0\Result_first_term.csproj.CoreCompileInputs.cache
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\bin\Debug\net8.0\Result_first_term.exe
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\bin\Debug\net8.0\Result_first_term.deps.json
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\bin\Debug\net8.0\Result_first_term.runtimeconfig.json
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\bin\Debug\net8.0\Result_first_term.dll
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\bin\Debug\net8.0\Result_first_term.pdb
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\obj\Debug\net8.0\Result_first_term.dll
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\obj\Debug\net8.0\refint\Result_first_term.dll
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\obj\Debug\net8.0\Result_first_term.pdb
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\obj\Debug\net8.0\Result_first_term.genruntimeconfig.cache
+C:\Users\hummi\OneDrive\Рабочий стол\Result_first_term\obj\Debug\net8.0\ref\Result_first_term.dll
